@@ -95,7 +95,7 @@
     "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "expect": "^26.5.2",
+    "expect": "^27.0.6",
     "express": "4.17.1",
     "express-handlebars": "^5.3.2",
     "fs.promises": "0.1.2",
